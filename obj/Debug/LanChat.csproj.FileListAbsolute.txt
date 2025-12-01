@@ -1,0 +1,11 @@
+D:\HocTap\HK3\LTTQ\Tu_Luyen\Cursor LanChat\LanChat\bin\Debug\LanChat.exe.config
+D:\HocTap\HK3\LTTQ\Tu_Luyen\Cursor LanChat\LanChat\bin\Debug\LanChat.exe
+D:\HocTap\HK3\LTTQ\Tu_Luyen\Cursor LanChat\LanChat\bin\Debug\LanChat.pdb
+D:\HocTap\HK3\LTTQ\Tu_Luyen\Cursor LanChat\LanChat\obj\Debug\LanChat.csproj.AssemblyReference.cache
+D:\HocTap\HK3\LTTQ\Tu_Luyen\Cursor LanChat\LanChat\obj\Debug\LanChat.Properties.Resources.resources
+D:\HocTap\HK3\LTTQ\Tu_Luyen\Cursor LanChat\LanChat\obj\Debug\LanChat.csproj.GenerateResource.cache
+D:\HocTap\HK3\LTTQ\Tu_Luyen\Cursor LanChat\LanChat\obj\Debug\LanChat.csproj.CoreCompileInputs.cache
+D:\HocTap\HK3\LTTQ\Tu_Luyen\Cursor LanChat\LanChat\obj\Debug\LanChat.exe
+D:\HocTap\HK3\LTTQ\Tu_Luyen\Cursor LanChat\LanChat\obj\Debug\LanChat.pdb
+D:\HocTap\HK3\LTTQ\Tu_Luyen\Cursor LanChat\LanChat\obj\Debug\LanChat.exe.config
+D:\HocTap\HK3\LTTQ\Tu_Luyen\Cursor LanChat\LanChat\obj\Debug\LanChat.Form1.resources
